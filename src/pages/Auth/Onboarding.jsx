@@ -2,7 +2,7 @@ import React from 'react'
 import './Onboarding.css'
 function Onboarding() {
   return (
-    <div className='home'>
+    <div className='homea'>
       <div className='header'>
        <img style={{marginLeft:"250px",height:"37px",width:"120px"}} src="https://abgo.in/bloom/image/logo.png" alt="" />
        <div style={{display:"flex",flexDirection:"row",alignItems:"center",marginRight:"250px"}}>
