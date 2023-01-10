@@ -21,7 +21,7 @@ function Onboarding() {
       <div style={{display:"flex",flexDirection:'column',justifyContent:"center",alignItems:"center",height:"70%"}}>
         <div><h1 style={{color:"white",textTransform:"uppercase",fontSize:"50px",fontFamily:"sans-serif",letterSpacing:"4.5px",fontWeight:"600"}}>Book Your Services Online</h1></div>
         <div>HELOOO</div>
-        <div>RANFAs</div>
+        <div>RANFA</div>
         <div><h1 style={{color:"white",fontSize:"20px",fontWeight:"normal" ,margin:"0px",textAlign:'center'}}>Dummy Text of The Printing And Typesetting Industry.Lorem Ipsum has been the industry's <br/>  standard dummy text ever since the 1500s,</h1></div>
       </div>
     </div>
