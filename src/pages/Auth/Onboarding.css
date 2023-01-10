@@ -1,0 +1,17 @@
+.home{
+
+    background: url("https://abgo.in/bloom/image/Banner.jpg") no-repeat center ;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    transition:all 7s;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 100px;
+    
+}
